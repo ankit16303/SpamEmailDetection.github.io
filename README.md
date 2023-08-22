@@ -30,7 +30,7 @@ The script will output either "SPAM" or "HAM" depending on whether the email is 
 
 ## Dataset
 
-The dataset used to train the model is the SpamAssassin Public Corpus. The dataset consists of over 5,000 labeled emails, with approximately 40% of them being spam.
+The dataset used to train the model is the SpamAssassin Public Corpus. The dataset consists of over 5,000 labeled emails, with approximately 40% of them being spam and 60% of them is not spam.
 
 ## License
 
